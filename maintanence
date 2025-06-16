@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Under Maintenance</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+      background-color: #f4f4f4;
+    }
+    img {
+      width: 200px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🚧 Under Maintenance 🚧</h1>
+  <img src="https://i.imgur.com/NzGULKx.png" alt="Under Maintenance">
+  <p>I'm working on something awesome. Check back soon!</p>
+</body>
+</html>
